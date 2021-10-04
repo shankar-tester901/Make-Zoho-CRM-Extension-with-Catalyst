@@ -17,15 +17,24 @@ The things to learn in this tutorial  are :-
 
 Yes, you need to just fill in 1-form and the rest will happen automatically.
 
+Lead Form
 
 ![alt text](https://github.com/shankar-tester901/Make-Zoho-CRM-Extension-with-Catalyst/blob/main/scaffold.png)
 
+Permissions View
+
 ![alt text](https://github.com/shankar-tester901/Make-Zoho-CRM-Extension-with-Catalyst/blob/main/scaffolding2.png)
+
+
+Leads View
 
 ![alt text](https://github.com/shankar-tester901/Make-Zoho-CRM-Extension-with-Catalyst/blob/main/scaffold-leads.png)
 
 
+Projects View
+
 ![alt text](https://github.com/shankar-tester901/Make-Zoho-CRM-Extension-with-Catalyst/blob/main/scaffold-project1.png)
 
+Tickets View
 
 ![alt text](https://github.com/shankar-tester901/Make-Zoho-CRM-Extension-with-Catalyst/blob/main/scaffold-tickets1.png)
