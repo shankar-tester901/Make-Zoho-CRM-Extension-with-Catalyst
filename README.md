@@ -22,10 +22,10 @@ Yes, you need to just fill in 1-form and the rest will happen automatically.
 
 ![alt text](https://github.com/shankar-tester901/Make-Zoho-CRM-Extension-with-Catalyst/blob/main/scaffolding2.png)
 
-![alt text]https://github.com/shankar-tester901/Make-Zoho-CRM-Extension-with-Catalyst/blob/main/scaffold-leads.png)
+![alt text](https://github.com/shankar-tester901/Make-Zoho-CRM-Extension-with-Catalyst/blob/main/scaffold-leads.png)
 
 
 ![alt text](https://github.com/shankar-tester901/Make-Zoho-CRM-Extension-with-Catalyst/blob/main/scaffold-project1.png)
 
 
-![alt text]https://github.com/shankar-tester901/Make-Zoho-CRM-Extension-with-Catalyst/blob/main/scaffold-tickets1.png)
+![alt text](https://github.com/shankar-tester901/Make-Zoho-CRM-Extension-with-Catalyst/blob/main/scaffold-tickets1.png)
