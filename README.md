@@ -38,3 +38,14 @@ Projects View
 Tickets View
 
 ![alt text](https://github.com/shankar-tester901/Make-Zoho-CRM-Extension-with-Catalyst/blob/main/scaffold-tickets1.png)
+
+
+
+One of the thoughts that might occur is if this is all that Catalyst can do?
+
+Please be assured, we have deliberately taken this approach to show you that you can do all this and MUCH MORE using exactly the same approach as shown in the tutorial. All you need is to extend the code given.
+
+You can, for example, connect to Zoho Books/Zoho Campaigns/Zoho Mail by adding the requisite scope in the main.js file and then invoking the relevant Books/Campaigns/Mail API. Feel free to connect to any service actually.
+
+It is upto your imagination.
+
