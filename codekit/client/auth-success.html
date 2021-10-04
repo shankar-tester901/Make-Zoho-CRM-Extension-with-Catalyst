@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <script src="main.js"></script>
+</head>
+
+<body>
+    <center>
+        <h1 style="text-align:center">Zoho CRM Authorized Successfully!</h1>
+        <p style="text-align:center">This window should close automatically. If it doesn't, go ahead and close it.
+        </p>
+    </center>
+    <script>
+        var myStateString = window.location.search.slice(1);
+
+        var splitTemp = myStateString.split("-")[0];
+        var zuseridTemp = splitTemp.split('=')[1];
+        var setCookieValue = zuseridTemp + 'isConnectorAuthorized';
+
+        setConnectorAuthorizedCookie(setCookieValue, true, 365);
+
+        setTimeout(function() {
+            parent.opener.location.reload();
+            window.close();
+        }, 2000);
+    </script>
+</body>
+
+</html>

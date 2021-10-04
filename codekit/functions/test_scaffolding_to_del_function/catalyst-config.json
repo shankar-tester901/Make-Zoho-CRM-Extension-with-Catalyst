@@ -1,0 +1,10 @@
+{
+	"deployment": {
+		"name": "test_scaffolding_to_del_function",
+		"stack": "node14",
+		"type": "advancedio"
+	},
+	"execution": {
+		"main": "index.js"
+	}
+}
